@@ -40,7 +40,8 @@ ICME GC 2021 Dataset (citation to be updated)
 
 # Citation
 If you use this model then please cite our work as;
-"K. Lamichhane, P. Mazumdar, F. Battisti, M. Carli, "A No Reference Deep Learning based Model for Quality Assessment of UGC Videos", International Conference on Multimedia Expo, 2021. (Accepted)
+
+K. Lamichhane, P. Mazumdar, F. Battisti, M. Carli, "A No Reference Deep Learning based Model for Quality Assessment of UGC Videos", International Conference on Multimedia Expo, 2021. (Accepted)
 
 
 	
